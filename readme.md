@@ -11,7 +11,7 @@ A simple and efficient GUI application to batch convert MP4 video files to WebM 
 - [Requirements](#requirements)
 - [Installation](#installation)
   - [Clone the Repository](#clone-the-repository)
-  - [Install FFmpeg](#install-ffmpeg)
+  - Install FFmpeg
   - [Install Python Dependencies](#install-python-dependencies)
 - [Usage](#usage)
   - [Running the Application](#running-the-application)
@@ -41,9 +41,11 @@ A simple and efficient GUI application to batch convert MP4 video files to WebM 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mp4-to-webm-converter.git
+git clone https://github.com/IP050/mp4-to-webm-converter.git
 cd mp4-to-webm-converter
 ```
+
+## Usage
 
 ###  Running the Application
 To run the application directly with Python:
