@@ -1,2 +1,7 @@
 *.pyc
-.exe 
+*.exe
+*.spec 
+*.html
+*.pdf 
+/build 
+/dist 

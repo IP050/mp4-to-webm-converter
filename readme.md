@@ -82,5 +82,5 @@ pip install pyinstaller
 From the project directory:
 
 ```bash
-pyinstaller --onefile --windowed mp4_to_webm_converter.py
+pyinstaller --onefile --windowed main.py
 ```
